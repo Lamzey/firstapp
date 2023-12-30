@@ -6,6 +6,15 @@
     <title>Home</title>
 </head>
 <body>
-    <h1>Testing</h1>
+    <div style="border: 3px solid black;">
+        <h2>Register</h2>
+        <form action="" method="post">
+            <input type="text" name="" placeholder="name">
+            <input type="email" name="" placeholder="email">
+            <input type="password" name="" placeholder="password">
+            <button>Register</button>
+        </form>
+
+    </div>
 </body>
 </html>
